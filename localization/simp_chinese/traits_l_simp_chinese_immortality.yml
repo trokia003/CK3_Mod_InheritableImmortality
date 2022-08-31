@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+ trait_Immortality_Gene:0 "儿童不朽"
+ trait_Immortality_Gene_desc:0 "这个角色已经摆脱了衰老."
+ trait_Immortality_Gene_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] 已经摆脱了衰老的限制."
+ trait_Immortality_Adult:0 "成人不朽"
+ trait_Immortality_Adult_desc:0 "这个角色已经摆脱了衰老."
+ trait_Immortality_Adult_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] 已经摆脱了衰老的限制."

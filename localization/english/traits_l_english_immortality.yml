@@ -1,0 +1,7 @@
+﻿l_english:
+ trait_Immortality_Gene:0 "Child Immortality"
+ trait_Immortality_Gene_desc:0 "This character has escaped the confines of aging."
+ trait_Immortality_Gene_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has escaped the confines of aging."
+ trait_Immortality_Adult:0 "Adult Immortality"
+ trait_Immortality_Adult_desc:0 "This character has escaped the confines of aging."
+ trait_Immortality_Adult_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has escaped the confines of aging."
